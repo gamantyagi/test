@@ -1,4 +1,5 @@
 {
+    "name" : "sales",
     "last_30_days": 2000.00,
     "Appointments": 6,
     "Appointments Values": 10000,
