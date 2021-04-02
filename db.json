@@ -1,0 +1,20 @@
+{
+    "last_30_days": 2000.00,
+    "Appointments": 6,
+    "Appointments Values": 10000,
+    "data_by_months":
+        {
+        "January" : 44 ,
+        "February": 55,
+        "March": 41,
+        "April": 67,
+        "May": 22,
+        "June": 43,
+        "July": 21,
+        "August": 33,
+        "September": 45,
+        "October": 31,
+        "November": 87,
+        "December": 65
+        }
+}
